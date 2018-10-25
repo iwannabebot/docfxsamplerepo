@@ -1,0 +1,23 @@
+{
+  "name": "docfxsamplerepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwannabebot/docfxsamplerepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwannabebot/docfxsamplerepo/issues"
+  },
+  "homepage": "https://github.com/iwannabebot/docfxsamplerepo#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
